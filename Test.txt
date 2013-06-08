@@ -1,6 +1,4 @@
 Hello world! 
-<<<<<<< HEAD
 Nice to meet you!
-=======
 A little changed by GJ!
->>>>>>> origin/testbranch
+
